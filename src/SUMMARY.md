@@ -23,4 +23,4 @@
 # 总结
 
 - [后记](./postscript.md)
-- [荐书](./recommend-book.md)
+- [相关资源](./recommend-book.md)
