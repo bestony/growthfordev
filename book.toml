@@ -1,6 +1,17 @@
 [book]
-authors = ["bestony"]
-language = "en"
+authors = ["HuanCheng Bai"]
+language = "zh-CN"
 multilingual = false
 src = "src"
 title = "Growth For Dev - 为开发者准备的增长指南"
+description = "一本为开发者准备的数据增长指南。帮助开发者学习，理解并掌握增长手段，赋能你自己的产品和应用。"
+
+[output.html]
+curly-quotes = true
+mathjax-support = false
+copy-fonts = true
+google-analytics = "UA-123456-7"
+no-section-label = true
+git-repository-url = "https://github.com/bestony/growthfordev"
+git-repository-icon = "fa-github"
+input-404 = "not-found.md"
